@@ -1,0 +1,12 @@
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\bin\Debug\Project1 - Total-Commander.exe.config
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\bin\Debug\Project1 - Total-Commander.exe
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\bin\Debug\Project1 - Total-Commander.pdb
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\bin\Debug\MyShell.dll
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1 - Total-Commander.csprojAssemblyReference.cache
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1___Total_Commander.Form1.resources
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1___Total_Commander.Properties.Resources.resources
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1 - Total-Commander.csproj.GenerateResource.cache
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1 - Total-Commander.csproj.CoreCompileInputs.cache
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1 - Total-Commander.csproj.CopyComplete
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1 - Total-Commander.exe
+C:\Users\hungm\source\repos\Project1 - Total-Commander\Project1 - Total-Commander\obj\Debug\Project1 - Total-Commander.pdb
